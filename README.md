@@ -1,8 +1,8 @@
-# Web-Cache-Deception
+## Web-Cache-Deception
 
-# Web Cache Deception Attack
+## Web Cache Deception Attack
 
-## Tools
+### Tools
 
 * [Param Miner - PortSwigger](https://github.com/PortSwigger/param-miner)
     > This extension identifies hidden, unlinked parameters. It's particularly useful for finding web cache poisoning vulnerabilities.
